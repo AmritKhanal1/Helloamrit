@@ -210,7 +210,7 @@ const profile = {
               {/* Description */}
               <div className="relative mb-8 sm:mb-12 max-w-xl">
                 <p className="text-base sm:text-xl text-gray-300/90 leading-relaxed">
-                  Tech Explorer 🚀 | Gamer 🎮 | Learning web development and AI ✨
+                  Tech Explorer  | Gamer 🎮 | Learning web development and AI ✨
                 </p>
               </div>
 
